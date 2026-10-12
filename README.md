@@ -3,9 +3,7 @@
 Product designer and design engineer. I design mobile and web products in Figma and build them in code.
 
 ## Featured projects
-- [Project 1](link): one line on the problem and result
-- [Project 2](link): one line on the problem and result
-- [Project 3](link): one line on the problem and result
+
 
 ## Tools
 Figma, React Native, Expo, TypeScript, Next.js, PostgreSQL
