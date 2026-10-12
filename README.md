@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @ahurika
-- 👀 I’m interested in product design.
-- 🌱 I’m currently learning ui/ux design..
-- 💞️ I’m looking to collaborate on product design
-- 📫 How to reach me @ekate2646@gmail.com.
+# Hi, I'm Kate
 
-<!---
-ahurika/ahurika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Product designer and design engineer. I design mobile and web products in Figma and build them in code.
+
+## Featured projects
+- [Project 1](link): one line on the problem and result
+- [Project 2](link): one line on the problem and result
+- [Project 3](link): one line on the problem and result
+
+## Tools
+Figma, React Native, Expo, TypeScript, Next.js, PostgreSQL
+
+## Working hours
+10am to 6pm WAT (UTC+1)
+
+## Contact
+ekate2646@gmail.com, https://www.linkedin.com/in/kate-eze-6143471b8/, portfolio
